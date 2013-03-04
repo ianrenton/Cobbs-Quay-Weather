@@ -5,4 +5,4 @@ Cobb's Quay in Poole Harbour has a [crappy Flash-only front-end](http://www.cobb
 
 Made for a friend of mine who couldn't get the Flash interface to work from his phone.
 
-You can see the current weather at Cobb's Quay by visiting http://files.ianrenton.com/weather/cobbs.php
+You can see the current weather at Cobb's Quay by visiting http://www.onlydreaming.net/files/weather/cobbs.php
